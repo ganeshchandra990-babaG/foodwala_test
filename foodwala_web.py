@@ -1729,7 +1729,7 @@ class WebsiteHandler(BaseHTTPRequestHandler):
 # START SERVER
 # ============================================================
 
-HOST = "127.192.0.1"
+HOST = "127.127.0.1"
 PORT = 8000
 
 
